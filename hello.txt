@@ -1,2 +1,6 @@
 my name is Ravi
+<<<<<<< HEAD
 favourite color is PURPLE
+=======
+favourite color is YELLOW
+>>>>>>> 43ee49ba5c770f138aeedf5d430555c48acf005f
